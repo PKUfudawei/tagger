@@ -14,4 +14,6 @@ src/
 
 *auto*
 *.root
-
+_epoch-*_optimizer.pt
+_epoch-*_state.pt
+!_best_epoch_state.pt
