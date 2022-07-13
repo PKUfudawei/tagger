@@ -187,6 +187,15 @@ observers:
     - pfMassDecorrelatedParticleNetJetTags_probXbb
     - pfMassDecorrelatedParticleNetJetTags_probXcc
     - pfMassDecorrelatedParticleNetJetTags_probXqq
+    - label_Top_bWqq
+    - label_Top_bWq
+    - label_Top_bWev
+    - label_Top_bWmv
+    - label_Top_bWtauhv
+    - label_Top_bWtauev
+    - label_Top_bWtaumv
+    - label_Top
+    - label_Wqq_jets
 
 weights:
     ### [option 1] use precomputed weights stored in the input files
