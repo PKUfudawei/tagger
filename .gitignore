@@ -12,6 +12,7 @@
 pkg/
 src/
 runs/*
+prediction*/
 
 *auto*
 *.root
